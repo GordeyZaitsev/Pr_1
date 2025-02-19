@@ -1,0 +1,11 @@
+{
+  "name": "Practise1Front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GordeyZaitsev/Pr_1.git",
+  "author": "Гордей <carpachcho@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
